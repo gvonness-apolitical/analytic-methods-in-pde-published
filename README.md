@@ -43,4 +43,16 @@ If you find this material useful, please cite:
 
 ```
 von Nessi, G. T. (2011). Analytic Methods in Partial Differential Equations.
+Available at: https://github.com/gvonness-apolitical/analytic-methods-in-pde-published
+```
+
+### BibTeX
+
+```bibtex
+@book{vonnessi2011pde,
+  author    = {von Nessi, Gregory T.},
+  title     = {Analytic Methods in Partial Differential Equations},
+  year      = {2011},
+  url       = {https://github.com/gvonness-apolitical/analytic-methods-in-pde-published}
+}
 ```
