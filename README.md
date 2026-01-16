@@ -4,9 +4,13 @@
 
 This repository contains the published PDF of *Analytic Methods in Partial Differential Equations*, a comprehensive textbook covering classical and modern approaches to PDE theory.
 
-## Contents
+## Downloads
 
-- `analyticMethodsPDEv2011.pdf` - The complete textbook (2011 edition)
+PDFs are named `analytic-methods-in-pde-{version}.pdf`. Check the [Releases](../../releases) page for the latest version.
+
+| Version | Description |
+|---------|-------------|
+| v2011   | Original 2011 edition |
 
 ## Topics Covered
 
